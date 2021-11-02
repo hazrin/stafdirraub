@@ -3,7 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4fe1e9655bf94f72f3ab0df2b74818f8",
+  "assets/AssetManifest.json": "7330f2ee2c0eb2740e7665f75b263777",
+"assets/assets/brunch.png": "f6a4ce6921896cfad7515331fc9df272",
+"assets/assets/fonts/SourceSansPro-LightItalic.ttf": "54e87dedd7daccc391c61dc0795a97bd",
+"assets/assets/fonts/SourceSansPro-Regular.ttf": "c1678b46f7dd3f50ceac94ed4e0ad01a",
 "assets/assets/home_screenn.png": "fd7a02adee0f1a71495b3982ace101cf",
 "assets/assets/kampus_raub.png": "921fabf64edb7b3f2f1171ae7b465e2f",
 "assets/assets/kampus_raub_blur.png": "fba7f2e94ada805dca5d0a2a0c2d6fb6",
@@ -14,9 +17,9 @@ const RESOURCES = {
 "assets/assets/uitmlogo.png": "e9649ae91f83216bb1d5128a6d0c6148",
 "assets/assets/uitm_logo.png": "d0949f777319354d9da62186ef84982b",
 "assets/assets/uitm_logo2.png": "598dee1b0ac2cf5f4302126074b4087c",
-"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/FontManifest.json": "9b3465ef5bd807189b16c628fad28d2b",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "9abdddbeadbae25ab8fa6c37a8f53e01",
+"assets/NOTICES": "86af89810c4487b95b34ff3b5874e782",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
@@ -24,9 +27,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "bd39f5557ddf45fe53f8475b294b6c26",
-"/": "bd39f5557ddf45fe53f8475b294b6c26",
-"main.dart.js": "0312e9599c960da5e39fc0b5369279ea",
+"index.html": "1af6d776f5f8c1a2e45eac7c457f93e0",
+"/": "1af6d776f5f8c1a2e45eac7c457f93e0",
+"main.dart.js": "f7f2af71921442a3e6f42c70be522c4f",
 "manifest.json": "f7060f427caff0fc17dd285567cd9def",
 "version.json": "9eb567aad1d5cff082ab4c2f45b64377"
 };
